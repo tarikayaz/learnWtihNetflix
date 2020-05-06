@@ -1,0 +1,11 @@
+{
+"manfiestVersion" : 2,
+"name" : "Netflix Sub Colleciton",
+"version" : "1",
+
+"default_locale" = : "en",
+"description" : "An extension  to collect words",
+"icons" : {},
+
+"offline_enabled" : true,
+}
